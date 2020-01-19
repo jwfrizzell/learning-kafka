@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c06af3c7-4535-4863-a4ff-70d128ca6bbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vyf2LT9dZd09fJJgMIC9TN6vmi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kafka_tutorials/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka-connect" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/github/kafka/twitter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.simplejoef.kafka" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka_tutorials/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamsFilterTweets">
+    <configuration name="ElasticSearchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.com.github.com.twitter.consumer.ElasticSearchConsumer" />
+      <module name="kafkabeginnerscourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.com.github.com.twitter.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.com.github.basics.ProducerDemoKeys" />
+      <module name="kafkabeginnerscourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.com.github.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsFilterTweets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.com.github.streams.StreamsFilterTweets" />
+      <module name="kafkabeginnerscourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.com.github.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.com.github.twitter.producer.TwitterProducer" />
+      <module name="kafkabeginnerscourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.com.github.twitter.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.kafka.twitter.TwitterProducer" />
+      <module name="kafkabeginnerscourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kafka.twitter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwitterProducer (1)" />
+        <item itemvalue="Application.StreamsFilterTweets" />
+        <item itemvalue="Application.ElasticSearchConsumer" />
+        <item itemvalue="Application.TwitterProducer" />
+        <item itemvalue="Application.ProducerDemoKeys" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c06af3c7-4535-4863-a4ff-70d128ca6bbb" name="Default Changelist" comment="" />
+      <created>1578230046726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578230046726</updated>
+      <workItem from="1578230049796" duration="34169000" />
+      <workItem from="1578616256318" duration="21393000" />
+      <workItem from="1578842505319" duration="516000" />
+      <workItem from="1578843047894" duration="14180000" />
+      <workItem from="1579107893377" duration="26713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2240" y="205" key="#Project_Structure" timestamp="1578230729099">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2240" y="205" key="#Project_Structure/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1578230729099" />
+    <state x="2453" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1578843629122">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="677" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1578756473086" />
+    <state x="2453" y="256" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1578843629122" />
+    <state x="2711" y="256" key="#com.intellij.ide.util.MemberChooser/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578524010347" />
+    <state x="525" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578531713465">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="525" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1578531713465" />
+    <state width="464" height="454" key="DebuggerActiveHint" timestamp="1579384931407">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="464" height="454" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1579384931407" />
+    <state width="432" height="454" key="DebuggerActiveHint/0.23.1680.1027@0.23.1680.1027" timestamp="1579383700538" />
+    <state width="494" height="467" key="DebuggerActiveHint/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579363317337" />
+    <state width="494" height="467" key="DebuggerActiveHint/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1579365145369" />
+    <state width="434" height="466" key="DebuggerActiveHint/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1578602330905" />
+    <state width="434" height="466" key="DebuggerActiveHint/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578522751049" />
+    <state width="1878" height="254" key="GridCell.Tab.0.bottom" timestamp="1579469532602">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579385041376" />
+    <state width="1326" height="263" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579306272626" />
+    <state width="1878" height="254" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579469532602" />
+    <state width="1802" height="374" key="GridCell.Tab.0.bottom/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111121448" />
+    <state width="1464" height="231" key="GridCell.Tab.0.bottom/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578523430031" />
+    <state width="1464" height="375" key="GridCell.Tab.0.bottom/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761225" />
+    <state width="1878" height="254" key="GridCell.Tab.0.center" timestamp="1579469532600">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579385041375" />
+    <state width="1326" height="263" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579306272625" />
+    <state width="1878" height="254" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579469532600" />
+    <state width="1802" height="374" key="GridCell.Tab.0.center/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111121446" />
+    <state width="1464" height="231" key="GridCell.Tab.0.center/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578523430029" />
+    <state width="1464" height="375" key="GridCell.Tab.0.center/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761223" />
+    <state width="1878" height="254" key="GridCell.Tab.0.left" timestamp="1579469532599">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579385041374" />
+    <state width="1326" height="263" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579306272625" />
+    <state width="1878" height="254" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579469532599" />
+    <state width="1802" height="374" key="GridCell.Tab.0.left/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111121445" />
+    <state width="1464" height="231" key="GridCell.Tab.0.left/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578523430028" />
+    <state width="1464" height="375" key="GridCell.Tab.0.left/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761222" />
+    <state width="1878" height="254" key="GridCell.Tab.0.right" timestamp="1579469532601">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1638" height="254" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579385041375" />
+    <state width="1326" height="263" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579306272626" />
+    <state width="1878" height="254" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579469532601" />
+    <state width="1802" height="374" key="GridCell.Tab.0.right/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111121447" />
+    <state width="1464" height="231" key="GridCell.Tab.0.right/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578523430030" />
+    <state width="1464" height="375" key="GridCell.Tab.0.right/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761224" />
+    <state width="1638" height="229" key="GridCell.Tab.1.bottom" timestamp="1579384995700">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="229" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579384995700" />
+    <state width="1878" height="229" key="GridCell.Tab.1.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579366549327" />
+    <state width="1802" height="374" key="GridCell.Tab.1.bottom/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111120606" />
+    <state width="1464" height="375" key="GridCell.Tab.1.bottom/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578522876247" />
+    <state width="1464" height="375" key="GridCell.Tab.1.bottom/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761321" />
+    <state width="1638" height="229" key="GridCell.Tab.1.center" timestamp="1579384995698">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="229" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579384995698" />
+    <state width="1878" height="229" key="GridCell.Tab.1.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579366549324" />
+    <state width="1802" height="374" key="GridCell.Tab.1.center/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111120605" />
+    <state width="1464" height="375" key="GridCell.Tab.1.center/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578522876245" />
+    <state width="1464" height="375" key="GridCell.Tab.1.center/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761320" />
+    <state width="1638" height="229" key="GridCell.Tab.1.left" timestamp="1579384995698">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="229" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579384995698" />
+    <state width="1878" height="229" key="GridCell.Tab.1.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579366549324" />
+    <state width="1802" height="374" key="GridCell.Tab.1.left/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111120604" />
+    <state width="1464" height="375" key="GridCell.Tab.1.left/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578522876244" />
+    <state width="1464" height="375" key="GridCell.Tab.1.left/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761319" />
+    <state width="1638" height="229" key="GridCell.Tab.1.right" timestamp="1579384995699">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="229" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579384995699" />
+    <state width="1878" height="229" key="GridCell.Tab.1.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1579366549326" />
+    <state width="1802" height="374" key="GridCell.Tab.1.right/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1579111120606" />
+    <state width="1464" height="375" key="GridCell.Tab.1.right/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578522876246" />
+    <state width="1464" height="375" key="GridCell.Tab.1.right/1680.23.2560.1057/0.23.1680.1027@1680.23.2560.1057" timestamp="1578600761321" />
+    <state width="753" height="540" key="XDebugger.FullValuePopup" timestamp="1578520061501">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state width="753" height="540" key="XDebugger.FullValuePopup/1680.0.2560.1080/0.23.1680.1027@1680.0.2560.1080" timestamp="1578520061501" />
+    <state x="2271" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1578843059651">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="517" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578616259940" />
+    <state x="2271" y="364" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1578843059651" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1578230053836" />
+    <state x="217" y="222" key="new project wizard" timestamp="1578867980448">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="222" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1578867980448" />
+    <state x="274" y="234" width="670" height="658" key="search.everywhere.popup" timestamp="1578754292457">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="274" y="234" width="670" height="658" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1578754292457" />
+    <state x="2098" y="241" width="670" height="676" key="search.everywhere.popup/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1578515263727" />
+    <state x="2478" y="338" key="svn.repositoryBrowser" timestamp="1578239159670">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2478" y="338" key="svn.repositoryBrowser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1578239159670" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/udemy/com/github/streams/StreamsFilterTweets.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
